@@ -56,7 +56,10 @@ stochastic-process-simulation/
 - Lists the Python packages people need before running the script.
 - Prevents “module not found” errors.
 ```
-open and run the notebook directly in Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/129n4RhTd3cCQZygD94hnN8trhvBDBxtd?usp=sharing)
+open and run the notebook directly in Colab:
+ 
+## 🔗 Links
+
+ [📘 View Notebook on Google Colab](https://colab.research.google.com/drive/129n4RhTd3cCQZygD94hnN8trhvBDBxtd?usp=sharing)  
 
 
