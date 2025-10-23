@@ -42,7 +42,7 @@ Clone the repository and run the simulation script:
 git clone https://github.com/<your-username>/stochastic-process-simulation.git
 cd stochastic-process-simulation
 python stochastic_process_simulation.py
-
+```
 ## 📁 File Structure
 
 stochastic-process-simulation/
@@ -55,7 +55,7 @@ stochastic-process-simulation/
 ### ⚙️ **Requirements**
 - Lists the Python packages people need before running the script.
 - Prevents “module not found” errors.
-
+```
 open and run the notebook directly in Colab:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/129n4RhTd3cCQZygD94hnN8trhvBDBxtd?usp=sharing)
 
