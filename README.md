@@ -50,46 +50,13 @@ stochastic-process-simulation/
 ├── stochastic_process_simulation.py # Main simulation script
 ├── README.md # Documentation
 └── requirements.txt # Dependencies (optional)
-## ▶️ Usage
 
-Clone the repository and run the simulation script:
-
-```bash
-git clone https://github.com/<your-username>/stochastic-process-simulation.git
-cd stochastic-process-simulation
-
-
-python stochastic_process_simulation.py
-
----
 
 ### ⚙️ **Requirements**
 - Lists the Python packages people need before running the script.
 - Prevents “module not found” errors.
 
-## ▶️ Usage
-
-Clone the repository and run the simulation script:
-
-```bash
-git clone https://github.com/<your-username>/stochastic-process-simulation.git
-cd stochastic-process-simulation
-python stochastic_process_simulation.py
-
----
-
-### ⚙️ **Requirements**
-- Lists the Python packages people need before running the script.
-- Prevents “module not found” errors.
+open and run the notebook directly in Colab:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/129n4RhTd3cCQZygD94hnN8trhvBDBxtd?usp=sharing)
 
 
-```
-## 📦 Requirements
-
-Make sure you have the following Python packages installed:
-
-```bash
-pip install numpy matplotlib
-
-
-open and run the notebook directly via Colab: Open in Colab
