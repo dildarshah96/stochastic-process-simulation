@@ -42,7 +42,7 @@ Clone the repository and run the simulation script:
 git clone https://github.com/<your-username>/stochastic-process-simulation.git
 cd stochastic-process-simulation
 python stochastic_process_simulation.py
-
+```
 ## 📁 File Structure
 
 stochastic-process-simulation/
@@ -50,7 +50,7 @@ stochastic-process-simulation/
 ├── stochastic_process_simulation.py # Main simulation script
 ├── README.md # Documentation
 └── requirements.txt # Dependencies (optional)
-
+```
 
 ## ⚙️ Requirements
 
